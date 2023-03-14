@@ -4,3 +4,5 @@ Shows all branches
 git rebase
 creates new history for file
 
+git log
+to view previous commits
