@@ -1,0 +1,2 @@
+git branch 
+Shows all branches
