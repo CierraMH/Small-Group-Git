@@ -1,2 +1,6 @@
 git branch 
 Shows all branches
+ 
+git rebase
+creates new history for file
+
