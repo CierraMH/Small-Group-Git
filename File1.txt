@@ -6,3 +6,7 @@ creates new history for file
 
 git log
 to view previous commits
+
+git clone 
+clones grom the hub to local directorey
+
